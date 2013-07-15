@@ -1,0 +1,1 @@
+This code demo how to use a native code in an android project
